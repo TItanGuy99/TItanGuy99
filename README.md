@@ -11,22 +11,27 @@ In my free time I like to develop homebrews for retro consoles with languages as
     <img src="images/Game_elements_01_ipad_HD_v4.jpg" alt="Australian Open Game">
     <figcaption>Game developed for the event Australia Open with Construct 2.</figcaption>
   </figure>  
+  </br>
   <figure>
     <img src="images/Submarino.jpg" alt="Kinect game - Submarino">
     <figcaption>Game to be played with the Microsoft Kinect developed for the company Submarino.</figcaption>
   </figure>
+  </br>
   <figure>
     <img src="images/f1.jpg" alt="F1">
     <figcaption>Game developed for the Uninove E-Learning.</figcaption>
   </figure>  
+  </br>
   <figure>
     <img src="images/LinuxOne.jpg" alt="Linux One">
     <figcaption>Page developed in React for IBM.</figcaption>
-  </figure>      
+  </figure>
+  </br>      
   <figure>
     <img src="images/titanide.jpg" alt="Titan IDE">
     <figcaption>Titan IDE - Game Editor </figcaption>
   </figure>
+  </br>
   <figure>
     <img src="images/Templates.png" alt="Titan IDE - Templates">
     <figcaption>Game templates that comes with the editor.</figcaption>
