@@ -4,8 +4,7 @@ Hi there, I'm Luiz Nai, I've been working on the industry since 2011, with techn
 
 In my free time I like to develop homebrews for retro consoles with languages as C and C++ under the name [Titan Game Studios](https://titangamestudioscom.wordpress.com/) and I also have an Youtube Channel [Nai Adventure](https://www.youtube.com/@NaiAdventure). Feel free to take a look at my repositories and get in touch with me if you have any questions.
 
-### Some of my Projects
-<!-- PROJECT LOGO -->
+### Some of my Projects:
 
 <div align="center">
   <figure>
@@ -35,7 +34,7 @@ In my free time I like to develop homebrews for retro consoles with languages as
 </div>
 
 
-### Contact
+### Contact:
 
 1. [Linkedin](https://www.linkedin.com/in/luiz-nai/)
 2. [Titan Game Studios](https://titangamestudioscom.wordpress.com/)
