@@ -1,4 +1,4 @@
-## Welcome to my GitHub Projects.
+## Welcome to my GitHub Page.
 
 Hi there, I'm Luiz Fernando Nai Ribeiro, I've been working on the industry since 2011, with technologies like Flash, (HTML, CSS, JavaScript), Jquery, Contruct 2, React.JS, Vue, Angular, Protheus (TLPP), Scala, Python, SQL and others.
 
